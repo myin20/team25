@@ -13,7 +13,7 @@ import com.myin.team25.persistence.MemberService_Mapper;
 //test입니다.
 //박휘훈입니다....^^7
 //장수훈입니다11
-//지인환입니다 ㅎ..
+//지인환입니다 ㅎ../
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
