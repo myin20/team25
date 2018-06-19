@@ -9,21 +9,11 @@ import org.springframework.stereotype.Service;
 import com.myin.team25.domain.MemberVo;
 import com.myin.team25.persistence.MemberService_Mapper;
 
-<<<<<<< HEAD
-//Implï¿½Ô´Ï´ï¿½
-//testï¿½Ô´Ï´ï¿½.
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½....^^7
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½11
-//ï¿½ï¿½ï¿½ï¿½È¯ï¿½Ô´Ï´ï¿½ ï¿½Ñ¤ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
-//geonyeol..
-=======
-//Implï¿½Ô´Ï´ï¿½
-//testï¿½Ô´Ï´ï¿½.
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½....^^7
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½11
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½È¯ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´Ï³ï¿½
-//ï¿½ï¿½ï¿½ï¿½È¯ï¿½Ô´Ï´ï¿½ ï¿½Ñ¤ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
->>>>>>> branch 'master' of https://github.com/myin20/team25.git
+//ImplÀÔ´Ï´Ù
+//testÀÔ´Ï´Ù.
+//¹ÚÈÖÈÆÀÔ´Ï´Ù....^^7
+//Àå¼öÈÆÀÔ´Ï´Ù11
+//¼ø¼­¸¦ÁöÅ°ÀÚ
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
