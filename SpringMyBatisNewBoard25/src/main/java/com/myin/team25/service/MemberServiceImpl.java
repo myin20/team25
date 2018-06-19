@@ -9,12 +9,21 @@ import org.springframework.stereotype.Service;
 import com.myin.team25.domain.MemberVo;
 import com.myin.team25.persistence.MemberService_Mapper;
 
+<<<<<<< HEAD
 //Impl�Դϴ�
 //test�Դϴ�.
 //�������Դϴ�....^^7
 //������Դϴ�11
 //����ȯ�Դϴ� �Ѥ� ����������������������
-//geonyeol.
+//geonyeol..
+=======
+//Impl�Դϴ�
+//test�Դϴ�.
+//�������Դϴ�....^^7
+//������Դϴ�11
+//�������Դϴ� ����ȯ ������ �ƴϳ�
+//����ȯ�Դϴ� �Ѥ� ����������������������
+>>>>>>> branch 'master' of https://github.com/myin20/team25.git
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
