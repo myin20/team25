@@ -17,6 +17,7 @@ import com.myin.team25.persistence.MemberService_Mapper;
 //이건열입니다
 //최유성입니다
 //하윤정
+//정윤정입니다.
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
