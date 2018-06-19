@@ -11,6 +11,7 @@ import com.myin.team25.persistence.MemberService_Mapper;
 
 //Impl입니다
 //test입니다.
+//박휘훈입니다....^^7
 
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
