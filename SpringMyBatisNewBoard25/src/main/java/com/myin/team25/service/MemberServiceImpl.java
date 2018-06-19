@@ -9,11 +9,12 @@ import org.springframework.stereotype.Service;
 import com.myin.team25.domain.MemberVo;
 import com.myin.team25.persistence.MemberService_Mapper;
 
-//ImplÀÔ´Ï´Ù
-//testÀÔ´Ï´Ù.
-//¹ÚÈÖÈÆÀÔ´Ï´Ù....^^7
-//Àå¼öÈÆÀÔ´Ï´Ù11
-//ÁöÀÎÈ¯ÀÔ´Ï´Ù ¤Ñ¤Ñ À¸À¸ÀÀÀ¸¤ÑÀ¸À¸ÀÀÀ¸À¸À¸
+//Implï¿½Ô´Ï´ï¿½
+//testï¿½Ô´Ï´ï¿½.
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½....^^7
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½11
+//ï¿½ï¿½ï¿½ï¿½È¯ï¿½Ô´Ï´ï¿½ ï¿½Ñ¤ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+//geonyeol.
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
