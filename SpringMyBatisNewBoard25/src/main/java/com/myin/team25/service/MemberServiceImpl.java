@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 import com.myin.team25.domain.MemberVo;
 import com.myin.team25.persistence.MemberService_Mapper;
 
+//Impl¿‘¥œ¥Ÿ
+
 @Service("memberServiceImpl")
 public class MemberServiceImpl implements MemberService{
 	
